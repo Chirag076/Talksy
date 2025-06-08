@@ -24,11 +24,11 @@ dist-ssr
 *.sw?
 
 .env
-backend/src/controllers
+# backend/src/controllers
 backend/src/middleware
 backend/src/models
 # backend/src/routes
-backend/src/controllers
+# backend/src/controllers
 lib
 frontend/src
 frontend/src/components/AuthImagePattern.jsx
