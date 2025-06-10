@@ -25,7 +25,7 @@ dist-ssr
 
 .env
 # backend/src/controllers
-backend/src/middleware
+# backend/src/middleware
 # backend/src/models
 # backend/src/routes
 # backend/src/controllers
