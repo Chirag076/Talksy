@@ -29,7 +29,7 @@ dist-ssr
 # backend/src/models
 # backend/src/routes
 # backend/src/controllers
-lib
+# lib
 frontend/src
 frontend/src/components/AuthImagePattern.jsx
 frontend/src/components/ChatContainer.jsx
