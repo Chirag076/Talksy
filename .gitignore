@@ -42,7 +42,7 @@ frontend/src/components/MessageInput.jsx
 frontend/src/components/Navbar.jsx
 frontend/src/components/NoChatSelected.jsx
 frontend/src/components/Sidebar.jsx
-frontend/src/components
+# frontend/src/components
 constants
 pages
 store
