@@ -36,11 +36,11 @@ frontend/src/store
 frontend/src/constants
 # frontend/src
 # frontend/src/components/AuthImagePattern.jsx
-frontend/src/components/ChatContainer.jsx
-frontend/src/components/ChatHeader.jsx
+# frontend/src/components/ChatContainer.jsx
+# frontend/src/components/ChatHeader.jsx
 # frontend/src/components/MessageInput.jsx
 # frontend/src/components/Navbar.jsx
-frontend/src/components/NoChatSelected.jsx
+# frontend/src/components/NoChatSelected.jsx
 # frontend/src/components/Sidebar.jsx
 # frontend/src/components
 constants
