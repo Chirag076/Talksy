@@ -33,7 +33,7 @@ dist-ssr
 frontend/src/lib
 frontend/src/pages
 frontend/src/store
-frontend/src/constants
+# frontend/src/constants
 # frontend/src
 # frontend/src/components/AuthImagePattern.jsx
 # frontend/src/components/ChatContainer.jsx
@@ -43,7 +43,7 @@ frontend/src/constants
 # frontend/src/components/NoChatSelected.jsx
 # frontend/src/components/Sidebar.jsx
 # frontend/src/components
-constants
+# constants
 pages
 store
 readme.md
