@@ -30,7 +30,7 @@ dist-ssr
 # backend/src/routes
 # backend/src/controllers
 # lib
-frontend/src/lib
+# frontend/src/lib
 frontend/src/pages
 frontend/src/store
 # frontend/src/constants
