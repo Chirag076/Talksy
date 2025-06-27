@@ -31,7 +31,7 @@ dist-ssr
 # backend/src/controllers
 # lib
 # frontend/src/lib
-frontend/src/pages
+# frontend/src/pages
 frontend/src/store
 # frontend/src/constants
 # frontend/src
@@ -42,8 +42,12 @@ frontend/src/store
 # frontend/src/components/Navbar.jsx
 # frontend/src/components/NoChatSelected.jsx
 # frontend/src/components/Sidebar.jsx
-# frontend/src/components
+frontend/src/pages/HomePage.jsx
+frontend/src/pages/LoginPage.jsx
+frontend/src/pages/ProfilePage.jsx
+frontend/src/pages/SettingsPage.jsx
+# frontend/src/pages/HomePage.jsx
 # constants
-pages
+# pages
 store
 readme.md
