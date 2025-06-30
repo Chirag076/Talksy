@@ -45,7 +45,7 @@ frontend/src/store
 # frontend/src/pages/HomePage.jsx
 # frontend/src/pages/LoginPage.jsx
 # frontend/src/pages/ProfilePage.jsx
-frontend/src/pages/SettingsPage.jsx
+# frontend/src/pages/SettingsPage.jsx
 # frontend/src/pages/HomePage.jsx
 # constants
 # pages
